@@ -1,0 +1,271 @@
+{
+    "menu": [
+        { "id": "0", 
+          "name":"Creativity & Design",
+          "items":
+          [
+            {
+                "id":"0a",
+                "name":"Plans 1",
+                "miniItems":
+                    [
+                        {
+                            "id":"0a",
+                            "name":"Plans 1.1",
+                            "title":"Adobe Creative Cloud for enterprise",
+                            "contentA":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                            "contentB":"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+
+                            "bgColorA":"#d16b9385",
+                            "textColorA":"#ffff",
+                            "imageA":"https://cc-prod.scene7.com/is/image/CCProdAuthor/cq5dam.mobile_640.640.327?$png$&jpegSize=100&wid=640",
+                            "questionA":"One platform. Endless creativity.",
+                            "answerA":"From world-class creative apps used by Fortune 500 companies, to easy license management and enterprise-grade security. Creative Cloud for enterprise gives organizations in every industry everything they need to harness the power of creativity.",
+                            "answerA1":"",
+                            "answerA2":"",
+
+                            "bgColorB":"black",
+                            "textColorB":"white",
+                            "imageB":"https://i.pcmag.com/imagery/articles/02mxy0h1RXCBB11bUJ3Xbbt-7..v1572313487.jpg",
+                            "questionB":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+                            "answerB":"Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+                            "answerB1":"",
+                            "answerB2":"",
+                                
+                                "bgColorC":"ffff",
+                                "textColorC":"black",
+                            "imageC":"https://5.imimg.com/data5/LT/XF/UD/SELLER-33515520/adobe-creative-cloud-for-enterprise-all-apps-500x500.png",
+                            "questionC":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                            "answerC":"If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+                            "answerC1":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                            "answerC2":"It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+                            
+                        },
+                        {
+                            "id":"0b",
+                            "name":"Plans 1.2",
+                            "title":"Adobe Creative Cloud for enterprise",
+                            "contentA":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                            "contentB":"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+
+                            "bgColorA":"#ffff",
+                            "textColorA":"black",
+                            "imageA":"https://cc-prod.scene7.com/is/image/CCProdAuthor/cq5dam.mobile_640.640.327?$png$&jpegSize=100&wid=640",
+                            "questionA":"One platform. Endless creativity.",
+                            "answerA":"From world-class creative apps used by Fortune 500 companies, to easy license management and enterprise-grade security. Creative Cloud for enterprise gives organizations in every industry everything they need to harness the power of creativity.",
+                            "answerA1":"",
+                            "answerA2":"",
+
+                            "bgColorB":"black",
+                            "textColorB":"white",
+                            "imageB":"https://i.pcmag.com/imagery/articles/02mxy0h1RXCBB11bUJ3Xbbt-7..v1572313487.jpg",
+                            "questionB":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+                            "answerB":"Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+                            "answerB1":"",
+                            "answerB2":"",
+                                
+                                "bgColorC":"ffff",
+                                "textColorC":"black",
+                            "imageC":"https://5.imimg.com/data5/LT/XF/UD/SELLER-33515520/adobe-creative-cloud-for-enterprise-all-apps-500x500.png",
+                            "questionC":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                            "answerC":"If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+                            "answerC1":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                            "answerC2":"It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+                        },  
+                        {
+                            "id":"0c",
+                            "name":"Plans 1.3",
+                            "title":"Adobe Creative Cloud for enterprise",
+                            "contentA":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                            "contentB":"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+
+                            "bgColorA":"#ffff",
+                            "textColorA":"black",
+                            "imageA":"https://cc-prod.scene7.com/is/image/CCProdAuthor/cq5dam.mobile_640.640.327?$png$&jpegSize=100&wid=640",
+                            "questionA":"One platform. Endless creativity.",
+                            "answerA":"From world-class creative apps used by Fortune 500 companies, to easy license management and enterprise-grade security. Creative Cloud for enterprise gives organizations in every industry everything they need to harness the power of creativity.",
+                            "answerA1":"",
+                            "answerA2":"",
+
+                            "bgColorB":"black",
+                            "textColorB":"white",
+                            "imageB":"https://i.pcmag.com/imagery/articles/02mxy0h1RXCBB11bUJ3Xbbt-7..v1572313487.jpg",
+                            "questionB":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+                            "answerB":"Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+                            "answerB1":"",
+                            "answerB2":"",
+                                
+                                "bgColorC":"ffff",
+                                "textColorC":"black",
+                            "imageC":"https://5.imimg.com/data5/LT/XF/UD/SELLER-33515520/adobe-creative-cloud-for-enterprise-all-apps-500x500.png",
+                            "questionC":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                            "answerC":"If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+                            "answerC1":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                            "answerC2":"It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+                        }
+                       
+                    ]
+            },
+            {
+                "id":"0b",
+                "name":"Feature products 1",
+                "miniItems":
+                    [
+                       
+                         {
+                            "id":"0a",
+                            "name":"Feature products 1.1",
+                            "title":"Adobe Creative Cloud for enterprise",
+                            "contentA":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                            "contentB":"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+
+                            "bgColorA":"#d16b9385",
+                            "textColorA":"#ffff",
+                            "imageA":"https://cc-prod.scene7.com/is/image/CCProdAuthor/cq5dam.mobile_640.640.327?$png$&jpegSize=100&wid=640",
+                            "questionA":"One platform. Endless creativity.",
+                            "answerA":"From world-class creative apps used by Fortune 500 companies, to easy license management and enterprise-grade security. Creative Cloud for enterprise gives organizations in every industry everything they need to harness the power of creativity.",
+                            "answerA1":"",
+                            "answerA2":"",
+
+                            "bgColorB":"black",
+                            "textColorB":"white",
+                            "imageB":"https://i.pcmag.com/imagery/articles/02mxy0h1RXCBB11bUJ3Xbbt-7..v1572313487.jpg",
+                            "questionB":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+                            "answerB":"Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+                            "answerB1":"",
+                            "answerB2":"",
+                                
+                                "bgColorC":"ffff",
+                                "textColorC":"black",
+                            "imageC":"https://5.imimg.com/data5/LT/XF/UD/SELLER-33515520/adobe-creative-cloud-for-enterprise-all-apps-500x500.png",
+                            "questionC":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                            "answerC":"If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+                            "answerC1":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                            "answerC2":"It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+                            
+                        },
+                        {
+                            "id":"0b",
+                            "name":"Feature products 1.2",
+                            "title":"Adobe Creative Cloud for enterprise",
+                            "contentA":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                            "contentB":"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+
+                            "bgColorA":"#ffff",
+                            "textColorA":"black",
+                            "imageA":"https://cc-prod.scene7.com/is/image/CCProdAuthor/cq5dam.mobile_640.640.327?$png$&jpegSize=100&wid=640",
+                            "questionA":"One platform. Endless creativity.",
+                            "answerA":"From world-class creative apps used by Fortune 500 companies, to easy license management and enterprise-grade security. Creative Cloud for enterprise gives organizations in every industry everything they need to harness the power of creativity.",
+                            "answerA1":"",
+                            "answerA2":"",
+
+                            "bgColorB":"black",
+                            "textColorB":"white",
+                            "imageB":"https://i.pcmag.com/imagery/articles/02mxy0h1RXCBB11bUJ3Xbbt-7..v1572313487.jpg",
+                            "questionB":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+                            "answerB":"Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+                            "answerB1":"",
+                            "answerB2":"",
+                                
+                                "bgColorC":"ffff",
+                                "textColorC":"black",
+                            "imageC":"https://5.imimg.com/data5/LT/XF/UD/SELLER-33515520/adobe-creative-cloud-for-enterprise-all-apps-500x500.png",
+                            "questionC":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                            "answerC":"If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+                            "answerC1":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                            "answerC2":"It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+                        },  
+                        {
+                            "id":"0c",
+                            "name":"Feature products 1.3",
+                            "title":"Adobe Creative Cloud for enterprise",
+                            "contentA":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                            "contentB":"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+
+                            "bgColorA":"#ffff",
+                            "textColorA":"black",
+                            "imageA":"https://cc-prod.scene7.com/is/image/CCProdAuthor/cq5dam.mobile_640.640.327?$png$&jpegSize=100&wid=640",
+                            "questionA":"One platform. Endless creativity.",
+                            "answerA":"From world-class creative apps used by Fortune 500 companies, to easy license management and enterprise-grade security. Creative Cloud for enterprise gives organizations in every industry everything they need to harness the power of creativity.",
+                            "answerA1":"",
+                            "answerA2":"",
+
+                            "bgColorB":"black",
+                            "textColorB":"white",
+                            "imageB":"https://i.pcmag.com/imagery/articles/02mxy0h1RXCBB11bUJ3Xbbt-7..v1572313487.jpg",
+                            "questionB":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+                            "answerB":"Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+                            "answerB1":"",
+                            "answerB2":"",
+                                
+                                "bgColorC":"ffff",
+                                "textColorC":"black",
+                            "imageC":"https://5.imimg.com/data5/LT/XF/UD/SELLER-33515520/adobe-creative-cloud-for-enterprise-all-apps-500x500.png",
+                            "questionC":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                            "answerC":"If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+                            "answerC1":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                            "answerC2":"It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+                        }
+                    ]
+                
+            },
+            {
+                "id":"0c",
+                "name":"Explore ",
+                "miniItems":
+                    [
+                       
+                        {
+                            "id":"0a",
+                            "name":"Explore 1.1",
+                            "title":"Adobe Creative Cloud for enterprise",
+                            "contentA":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+                            "contentB":"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+
+                            "bgColorA":"#d16b9385",
+                            "textColorA":"#ffff",
+                            "imageA":"https://cc-prod.scene7.com/is/image/CCProdAuthor/cq5dam.mobile_640.640.327?$png$&jpegSize=100&wid=640",
+                            "questionA":"One platform. Endless creativity.",
+                            "answerA":"From world-class creative apps used by Fortune 500 companies, to easy license management and enterprise-grade security. Creative Cloud for enterprise gives organizations in every industry everything they need to harness the power of creativity.",
+                            "answerA1":"",
+                            "answerA2":"",
+
+                            "bgColorB":"black",
+                            "textColorB":"white",
+                            "imageB":"https://i.pcmag.com/imagery/articles/02mxy0h1RXCBB11bUJ3Xbbt-7..v1572313487.jpg",
+                            "questionB":"Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text",
+                            "answerB":"Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+                            "answerB1":"",
+                            "answerB2":"",
+                                
+                                "bgColorC":"ffff",
+                                "textColorC":"black",
+                            "imageC":"https://5.imimg.com/data5/LT/XF/UD/SELLER-33515520/adobe-creative-cloud-for-enterprise-all-apps-500x500.png",
+                            "questionC":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                            "answerC":"If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+                            "answerC1":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+                            "answerC2":"It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+                            
+                        }
+                    ]
+            }
+          ]
+        },
+        { "id": "1", 
+            "name":"PDF & E-signatures",
+            "items":
+            [
+               
+        ]
+        },
+        { "id": "3", 
+            "name":"Help & Support",
+        "items":
+        [
+            
+        ]
+        }
+
+    ]
+}
+    
